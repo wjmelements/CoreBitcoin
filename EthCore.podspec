@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "EthCore"
-  s.version      = "1.0.7"
+  s.version      = "1.0.8"
   s.summary      = "EthCore is a subset of CoreBitcoin in Objective-C."
   s.description  = <<-DESC
                    EthCore provides helpful functions for deriving and signing with Ethereum keychains.
